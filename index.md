@@ -4,7 +4,7 @@
 ### Projects
 
 - [CUNY Webpage Design](https://swiftshifty.github.io/mmp240/cuny-design/index.html)
-- [Project 2 Title](http://example.com/)
+- [Streaming Service Website Design](https://swiftshifty.github.io/mmp240/midterm/index.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
