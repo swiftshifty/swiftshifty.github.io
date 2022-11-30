@@ -1,25 +1,9 @@
 ## Portfolio
 
----
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="pdf/gibsonN_TO8 Final.pdf"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+- [CUNY Webpage Design](https://swiftshifty.github.io/mmp240/cuny-design/index.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
