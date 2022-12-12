@@ -3,8 +3,6 @@
 
 ### Projects
 
-- [CUNY Webpage Design](https://swiftshifty.github.io/mmp240/cuny-design/index.html)
-- [Streaming Service Website Design](https://swiftshifty.github.io/mmp240/midterm/index.html)
 - [Flash Game Project](https://editor.p5js.org/nolangibson22/full/-BWtpz0zp)
 - [Space Animation Project](https://editor.p5js.org/nolangibson22/full/Mc7eZtqz1)
 - [User Interaction Project](https://editor.p5js.org/nolangibson22/full/6JGrFneIc)
